@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps
+          Learn AWSDEVOPS
         </a>
       </header>
     </div>
